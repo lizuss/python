@@ -15,7 +15,7 @@
 
 # li = input ("Напишите список: ").split()
 # il1= []
-# print("Я овощь, мне нужна помощь!")
+
 # # for n in range(0,len(il1)//2):
 # #     il1.append(il[2*n+1])
 # #     il1.append(il[2*n])
